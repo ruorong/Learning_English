@@ -6,7 +6,7 @@
 - 重点笔
 - 小刀
 ***
-![image](https://github.com/ruorong/Learning_English/blob/master/image/English.jpg)
+![image](https://github.com/ruorong/Learning_English/raw/master/image/English.jpg)
 ## 具体步骤
 ***
 1. 🍷 计算每日任务
